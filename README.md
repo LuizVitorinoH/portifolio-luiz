@@ -2,7 +2,7 @@
 
 ![Imagem do projeto finalizado](assets/images/portifolio.png)
 
-<h4 align="center"><a href="https://portifolio-luiz-ojsbve59n-luizvitorinoh.vercel.app/">Confira o projeto aqui</a></h4>
+<h4 align="center"><a href="https://portifolio-luiz-ashy.vercel.app/">Confira o projeto aqui</a></h4>
 
 ---
 
